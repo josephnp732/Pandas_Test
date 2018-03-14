@@ -1,2 +1,2 @@
 # Pandas_Test
-Testin out pandas on Python.
+Takes multiple excel sheets from a folder and combines them into one excel sheet. Also pivots the table with some calculated fields. 
